@@ -32,9 +32,8 @@ It uses the **OpenWeatherMap API** to retrieve live data and updates the interfa
 [👉 View Project Live](https://youssefbelhadadji.github.io/Weather_APPS/)
 
 ## 📸 Screenshot
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](./oran.png)
+![Weather App Screenshot](./adrar.png)
 
-*(Replace with your screenshot file if available)*
 
-```markdown
 
