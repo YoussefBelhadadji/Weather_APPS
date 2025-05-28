@@ -33,7 +33,5 @@ It uses the **OpenWeatherMap API** to retrieve live data and updates the interfa
 
 ## 📸 Screenshot
 ![Weather App Screenshot](./oran.png)
-![Weather App Screenshot](./adrar.png)
-
 
 
